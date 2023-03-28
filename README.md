@@ -9,3 +9,4 @@
 |5|[Multiply Strings](https://leetcode.com/problems/multiply-strings) | [Python](./medium/multiplyStrings.py)|Medium|
 |6|[Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Python](./easy/searchInsertPosition.py)|Easy|
 |7|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Python](./medium/searchInRotatedSorted.py)|Medium|
+|8|[Rotate Image](https://leetcode.com/problems/rotate-image) | [Python](./medium/rotateImage.py)|Medium|
